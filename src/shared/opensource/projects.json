@@ -8,18 +8,6 @@
       "description": "Text-guided image editing by manipulating diffusion path without any training.",
       "isFork": false,
       "languages": [
-        {
-          "name": "Python",
-          "iconifyClass": "logos-python"
-        },
-        {
-          "name": "Shell",
-          "iconifyClass": "simple-icons:shell"
-        },
-        {
-          "name": "Jupyter Notebook",
-          "iconifyClass": "logos-jupyter"
-        }
       ]
     },
     {
@@ -30,10 +18,6 @@
       "description": "📦 PyTorch based visualization package for generating layer-wise explanations for CNNs.",
       "isFork": false,
       "languages": [
-        {
-          "name": "Python",
-          "iconifyClass": "logos-python"
-        }
       ]
     },
     {
@@ -44,22 +28,6 @@
       "description": "🔥 The Complete Customizable Software Developer Portfolio Template which lets you showcase your work and provides each and every detail about you as Software Developer.",
       "isFork": false,
       "languages": [
-        {
-          "name": "HTML",
-          "iconifyClass": "logos-html-5"
-        },
-        {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
-        },
-        {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
-        },
-        {
-          "name": "Dockerfile",
-          "iconifyClass": "simple-icons:docker"
-        }
       ]
     },
     {
@@ -70,22 +38,6 @@
       "description": "🌀 Insert Awesome Shapes into Your React Site with Ease.",
       "isFork": false,
       "languages": [
-        {
-          "name": "HTML",
-          "iconifyClass": "logos-html-5"
-        },
-        {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
-        },
-        {
-          "name": "Shell",
-          "iconifyClass": "simple-icons:shell"
-        },
-        {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
-        }
       ]
     },
     {
@@ -96,10 +48,6 @@
       "description": "⚙️ Solving sudoku using Deep Reinforcement learning in combination with powerful symbolic representations.",
       "isFork": false,
       "languages": [
-        {
-          "name": "Python",
-          "iconifyClass": "logos-python"
-        }
       ]
     },
     {
@@ -110,14 +58,6 @@
       "description": "🚀 Smooth Liquid Swipe Animation to transition between different components.",
       "isFork": false,
       "languages": [
-        {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
-        },
-        {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
-        }
       ]
     }
   ]
