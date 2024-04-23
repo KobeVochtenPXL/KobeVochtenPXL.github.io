@@ -1,64 +1,89 @@
 {
   "data": [
     {
-      "id": "R_kgDOJWL0-g",
-      "name": "mdp-diffusion",
-      "createdAt": "2023-04-13T04:18:19Z",
-      "url": "https://github.com/ashutosh1919/mdp-diffusion",
-      "description": "Text-guided image editing by manipulating diffusion path without any training.",
-      "isFork": false,
-      "languages": [
-      ]
+      "name": "Internationalisering",
+      "createdAt": "Van 08/05/2023 t.e.m. 12/05/2023",
+      "description": "Internationale BusIT-week: How to stay human in a technology driven society?"
     },
     {
-      "id": "R_kgDOG_vYHA",
-      "name": "explainable-cnn",
-      "createdAt": "2022-03-13T20:41:33Z",
-      "url": "https://github.com/ashutosh1919/explainable-cnn",
-      "description": "📦 PyTorch based visualization package for generating layer-wise explanations for CNNs.",
-      "isFork": false,
-      "languages": [
-      ]
+      "name": "Internationalisering, innovatie",
+      "createdAt": "27/11/2023",
+      "description": "AMO-Robots event"
     },
     {
-      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
-      "name": "masterPortfolio",
-      "createdAt": "2020-03-06T16:26:54Z",
-      "url": "https://github.com/ashutosh1919/masterPortfolio",
-      "description": "🔥 The Complete Customizable Software Developer Portfolio Template which lets you showcase your work and provides each and every detail about you as Software Developer.",
-      "isFork": false,
-      "languages": [
-      ]
+      "name": "Innovatie: hackathon",
+      "createdAt": "Van 2024/03/08 10:00 t.e.m. 2024/03/09 18:00",
+      "description": "CyberSecurity Challenge Belgium"
     },
     {
-      "id": "R_kgDOG0_8uQ",
-      "name": "react-awesome-shapes",
-      "createdAt": "2022-02-11T14:50:20Z",
-      "url": "https://github.com/ashutosh1919/react-awesome-shapes",
-      "description": "🌀 Insert Awesome Shapes into Your React Site with Ease.",
-      "isFork": false,
-      "languages": [
-      ]
+      "name": "Innovatie: innovatieroute",
+      "createdAt": "25/09, 05/10, 19/10 in 2023, 9:00 - 16:00",
+      "description": "UI/UX"
     },
     {
-      "id": "R_kgDOGcPKSQ",
-      "name": "neuro-symbolic-sudoku-solver",
-      "createdAt": "2021-11-26T17:56:07Z",
-      "url": "https://github.com/ashutosh1919/neuro-symbolic-sudoku-solver",
-      "description": "⚙️ Solving sudoku using Deep Reinforcement learning in combination with powerful symbolic representations.",
-      "isFork": false,
-      "languages": [
-      ]
+      "name": "Persoonlijke ontwikkeling",
+      "createdAt": "Van 13/02/2023 t.e.m. 17/02/2023",
+      "description": "Projectweek"
     },
     {
-      "id": "MDEwOlJlcG9zaXRvcnkzMjU5NDM1MTE=",
-      "name": "react-liquidswipe",
-      "createdAt": "2021-01-01T08:31:51Z",
-      "url": "https://github.com/ashutosh1919/react-liquidswipe",
-      "description": "🚀 Smooth Liquid Swipe Animation to transition between different components.",
-      "isFork": false,
-      "languages": [
-      ]
+      "name": "Persoonlijke ontwikkeling",
+      "createdAt": "7 maart 2023",
+      "description": "POP-sessie 1: Feedback"
+    },
+    {
+      "name": "Persoonlijke ontwikkeling",
+      "createdAt": "8 maart 2023",
+      "description": "POP-sessie 2: Kernkwadranten"
+    },
+    {
+      "name": "Persoonlijke ontwikkeling",
+      "createdAt": "18 oktober 2023",
+      "description": "POP-sessie 3: Samenwerken in team"
+    },
+    {
+      "name": "Seminarie 2TIN",
+      "createdAt": "28 februari 2023, 9:00 - 12:00",
+      "description": "Applicatie ontwikkeling met Outsystems (Reactive, mobile)"
+    },
+    {
+      "name": "Seminarie 2TIN",
+      "createdAt": "14 maart 2023, 9:00 - 12:00",
+      "description": "Drinking a river of IoT data using Akka.NET"
+    },
+    {
+      "name": "Seminarie 2TIN",
+      "createdAt": "21 maart 2023, 9:00 - 12:00",
+      "description": "Crashcourse Design"
+    },
+    {
+      "name": "Seminarie 2TIN",
+      "createdAt": "28 maart 2023, 9:00 - 12:30",
+      "description": "Rapid app development: building a “candy delivery” app using low-code"
+    },
+    {
+      "name": "Seminarie 2TIN",
+      "createdAt": "18 april 2023, 9:00 - 12:00",
+      "description": "Cloud Native Development"
+    },
+    {
+      "name": "Seminarie 3TIN",
+      "createdAt": "15 november 2023, 13:30 - 17:30",
+      "description": "Business Analysis en Project Management in Applied AI"
+    },
+    {
+      "name": "Seminarie 3TIN",
+      "createdAt": "22 november 2023, 13:30 - 17:00",
+      "description": "Quantum Computing, een demystificatie"
+    },
+    {
+      "name": "Seminarie 3TIN",
+      "createdAt": "29 november 2023, 13:30 - 17:30",
+      "description": "DDD fundamentals"
+    },
+    {
+      "name": "Seminarie 3TIN",
+      "createdAt": "6 november 2023, 13:30 - 17:30",
+      "description": "Embracing Modular SQL with DBT"
     }
   ]
 }
