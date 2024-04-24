@@ -9,7 +9,7 @@ const settings = {
 const seo = {
   title: "Kobe's Portfolio",
   description:
-    "Ik ben een derdejaarsstudent aan de Hogeschool PXL die de Professionele Bachelor Toegepaste Informatica met afstudeerrichting Artificiële inteligentie studeert.",
+    "Ik ben een derdejaarsstudent aan de Hogeschool PXL die de Professionele Bachelor Toegepaste Informatica met afstudeerrichting Artificiële intelligentie studeert.",
   og: {
     title: "Kobe Vochten Portfolio",
     type: "website",
