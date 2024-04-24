@@ -9,7 +9,7 @@ const settings = {
 const seo = {
   title: "Kobe's Portfolio",
   description:
-    "Ik ben een derdejaarsstudent aan de Hogeschool PXL die de Professionele Bachelor Toegepaste Informatica met afstudeerrichting Artificiële intelligentie studeert.",
+    "Ik ben derdejaarsstudent aan de Hogeschool PXL die Professionele Bachelor Toegepaste Informatica met afstudeerrichting Artificiële intelligentie studeert.",
   og: {
     title: "Kobe Vochten Portfolio",
     type: "website",
@@ -22,7 +22,7 @@ const greeting = {
   title: "Kobe Vochten",
   logo_name: "Kobe Vochten",
   subTitle:
-    "Ik ben derdejaarsstudent aan de Hogeschool PXL die Professionele Bachelor Toegepaste Informatica met afstudeerrichting Artificiële inteligentie studeert.",
+    "Ik ben derdejaarsstudent aan de Hogeschool PXL die Professionele Bachelor Toegepaste Informatica met afstudeerrichting Artificiële intelligentie studeert.",
   //resumeLink:
   //"https://drive.google.com/file/d/1bXRknv_h-XI_3CQ3SGPteGODtvEb7YvI/view?usp=sharing",
   portfolio_repository: "https://github.com/KobeVochtenPXL.github.io",
